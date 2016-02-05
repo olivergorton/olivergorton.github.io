@@ -4,18 +4,3 @@ body {
 	margin-right: auto;
 	background: white;
 	color: black;
-}
-table {
-	margin-left: auto; 
-	margin-right: auto;
-}
-.top {
-    height: 50px;
-}
-.left {
-    width: 100px;
-    float:left;
-}
-.main {
-  margin-left:150px;
- }
