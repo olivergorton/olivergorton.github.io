@@ -1,0 +1,48 @@
+<html>
+<head>
+	<title>Projects</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+</head>
+<body>
+	<style>
+	a:link {color:black; text-decoration: none}
+	a:visited {color:black; text-decoration: none;}
+	a:hover {color:black; text-decoration: underline;}
+	</style>
+	____________________________________________________________________
+	<br><br>
+   	<a href="index.html">Home</a> | <a href="Noteworthy_Assignments.html">Projects</a> | <a href="Classes.html">Coursework</a> | <a href="contactme.html">Contact me</a>
+   	<br>
+	____________________________________________________________________
+   	<br><br>
+	<table align=center>
+		<td align="left">
+			<b>Quantum Mechanics Simulation:</b> <br><br>
+			Quantum Mechanics Simulation Paper [<a href="ogorton.quantumsimulations.pdf">pdf</a>] <br><br>
+			Quantum Mechanics Simulation Python Script [<a href="ogorton_quantumsimulations_version07.txt">text</a>]<br><br>
+			<b>Advanced Experimentation Labs:</b><br><br>
+			Optical Pumping [<a href="ogorton.opt.pdf">pdf</a>]<br><br>
+			Hall Effect in a Plasma [<a href="ogorton.hal.pdf">pdf</a>]<br><br>
+			Nonlinear Dynamics and Chaos [<a href="ogorton.nld.pdf">pdf</a>]<br><br>
+			Error Analysis [<a href="EAX.pdf">pdf</a>]
+			<br><br>
+			<b>Intrumentation Labs:</b><br><br>
+			4-Bit Adder/Subtractor Project Report [<a href="finalreportedit.docx.pdf">pdf</a>]
+			<br><br>
+			Instrumentation lab report (JFET Circuitry) [<a href="Lab V.pdf">pdf</a>]
+			<br><br>
+			Instrumentation lab report (Op Amp Circuitry) [<a href="lab8.pdf">pdf</a>]		<br><br>
+			<b>Other work</b><br><br>
+			Problem in Classical Mechanics (Choas) [<a href="mechanics1.pdf">pdf</a>]
+			<br><br>
+			Prolem in Quantum Mechanics [<a href="quantum1.pdf">pdf</a>]
+			<br><br>
+			Oliver Gorton's Resume [<a href="ogorton_Resume.pdf">pdf</a>]
+			<br><br>
+			<br><br>
+			
+		</td>
+	</table>
+</body>
+</html>

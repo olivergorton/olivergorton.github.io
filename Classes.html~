@@ -1,0 +1,145 @@
+<html>
+<head>
+	<title>Coursework</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+</head>
+<body>
+	<style>
+	a:link {color:black; text-decoration: none}
+	a:visited {color:black; text-decoration: none;}
+	a:hover {color:black; text-decoration: underline;}
+	</style>
+	____________________________________________________________________
+	<br><br>
+   	<a href="index.html">Home</a> | <a href="Noteworthy_Assignments.html">Projects</a> | <a href="Classes.html">Coursework</a> | <a href="contactme.html">Contact me</a>
+   	<br>
+	____________________________________________________________________
+   	<br><br>
+   	<br><br>
+   	Core Physics: <br>
+		<table align=center>
+		<col width="250">
+		<col width="120">
+		<col width="100">
+		<col width="100">
+			<tr>
+		   		<td>Course</td>
+		   		<td>ID</td>
+		   		<td>Institution</td>
+		    	<td>Term</td>
+		  	</tr>
+		  	<tr>
+			 	<td>Analytic Mechanics</td>
+			 	<td>PHYS 105</td>
+			 	<td>UC Berkeley</td>
+			 	<td>Spring 2015</td>
+			</tr>
+			<tr>
+			 	<td>Statistical Thermal Physics</td>
+			 	<td>PHYS 112</td>
+			 	<td>UC Berkeley</td>
+			 	<td>Spring 2015</td>
+			</tr>
+		  	<tr>
+			 	<td>Electromagnetism and Optics I</td>
+			 	<td>PHYS 110A</td>
+			 	<td>UC Berkeley</td>
+			 	<td>Fall 2015</td>
+		 	</tr>
+		 	<tr>
+			 	<td>Electromagnetism and Optics II</td>
+			 	<td>PHYS 110B</td>
+			 	<td>UC Berkeley</td>
+			 	<td>Spring 2016</td>
+		 	</tr>	
+		 	<tr>
+			 	<td>Instrumentation Lab</td>
+			 	<td>PHYS 111A</td>
+			 	<td>UC Berkeley</td>
+			 	<td>Fall 2015</td>
+		 	</tr>
+		 	<tr>
+			 	<td>Advanced Experimentation Lab</td>
+			 	<td>PHYS 111B</td>
+			 	<td>UC Berkeley</td>
+			 	<td>Spring 2016</td>
+		 	</tr>
+		 	<tr>
+		 	<tr>
+			 	<td>Quantum Mechanics I</td>
+			 	<td>PHYS 137A</td>
+			 	<td>UC Berkeley</td>
+			 	<td>Summer 2015</td>
+			</tr>
+			<tr>
+			 	<td>Quantum Mechanics II</td>
+			 	<td>PHYS 137B</td>
+			 	<td>UC Berkeley</td>
+			 	<td>Fall 2015</td>
+		 	</tr>
+		</table>
+		<br><br>
+		Mathematics:
+		<table align=center>
+		<col width="250">
+		<col width="120">
+		<col width="100">
+		<col width="100">
+			<tr>
+		    	<td>Course</td>
+		    	<td>ID</td>
+		   		 <td>Institution</td>
+		   		 <td>Term</td>
+		 	</tr>
+		 	<tr>
+		 		<td>Abstract Algebra</td>
+		 		<td>MATH 113</td>
+		 		<td>UC Berkeley</td>
+		 		<td>Summer 2015</td>
+		 	</tr>
+		 	<tr>
+		 		<td>Linear Algebra</td>
+		 		<td>MATH 110</td>
+		 		<td>UC Berkeley</td>
+		 		<td>Spring 2015</td>
+		 	</tr>
+		</table>
+		<br><br>
+		Other Courses:
+		<table align=center>
+		<col width="250">
+		<col width="120">
+		<col width="100">
+		<col width="100">
+			<tr>
+		    	<td>Course</td>
+		   		<td>ID</td>
+		   		<td>Institution</td>
+		   		<td>Term</td>
+		  	</tr>
+		  	<tr>
+		 		<td>Intro to Tensors and Group Theory for Physicists</td>
+		 		<td>PHYS 198</td>
+		 		<td>UC Berkeley</td>
+		 		<td>Fall 2015</td>
+		 	</tr>
+		 	<tr>
+		 		<td>Python for Astronomers</td>
+		 		<td>ASTRON 198</td>
+		 		<td>UC Berkeley</td>
+		 		<td>Spring 2016</td>
+			</tr>	  
+			<tr>
+		 		<td>Intro to Computational Techniques in Physics</td>
+		 		<td>PHYS 77</td>
+		 		<td>UC Berkeley</td>
+		 		<td>Spring 2016</td>
+		 	</tr>
+
+		</table>
+	<br><br>
+	<br><br>
+	UC Berkeley physics undergraduate degree program (handbook): [<a href="berkeleyphysicsdegreehandbook.pdf">pdf</a>]
+</body>
+</html>
